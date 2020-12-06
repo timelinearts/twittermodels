@@ -1,3 +1,3 @@
-# TwitterModels
+# python-twittermodels
 
-Provides a set of models for parsing/validating twitter API data models.
+Provides a set of python tools to serialize and validate twitter API models.
